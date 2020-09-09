@@ -7,4 +7,4 @@ Hi! I'm Jan. A backend developer who uses technologies like Node.js, MongoDB and
 - 🌐 [noltio.com](https://noltio.com/) (my company website, we develop web apps)
 - 💃 [chciples.cz](https://chciples.cz/) (I'm in a team of people organizing balls in CZ)
 - 💰 [evide.cz](https://evide.cz/) (web app for easier money management for Czech entrepreneurs)
-- 📝 [chcikorekturu.cz](https://chcikorekturu.cz) (I do Czech text corrections)
+- 📝 [chcikorekturu.cz](https://chcikorekturu.cz) (I do Czech text proofreading)
