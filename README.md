@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi! I'm Jan. A backend developer who uses technologies like Node.js, MongoDB and most recently Go too. I work on several projects and I'd like to share some of them with you using this repository. I migrated from Gitlab recently.
+Hi! I'm Jan. A backend developer who uses technologies like Node.js, MongoDB and most recently Go too. I work on several projects and I'd like to share some of them with you using this text. Also, feel free to check my work in my public repositories.
 
 ### My projects
 - 👨🏻‍💻 [jansvabik.cz](https://jansvabik.cz/) (my tiny personal website in Czech language)
