@@ -10,4 +10,4 @@ Hi! I'm Jan. A backend developer who uses technologies like Node.js, MongoDB and
 - 🙋🏻‍♂️ [chciflek.cz](https://chciflek.cz/) (a portal for advertising jobs and entrepreneur contracts)
 - 💰 [evide.cz](https://evide.cz/) (web app for easier money management for Czech entrepreneurs)
 - 📝 [chcikorekturu.cz](https://chcikorekturu.cz) (I do Czech text proofreading)
-- 💃 [chciples.cz](https://chciples.cz/) (I'm in a team of people organizing balls in CZ)
+- 💃 [chciples.cz](https://chciples.cz/) (I'm in a team of people organizing proms in Czechia)
